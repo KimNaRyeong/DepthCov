@@ -94,10 +94,9 @@ We use the RGB stream for a RealSense camera via the pyrealsense2 API.  We assum
 If you found this code/work to be useful in your own research, please consider citing the following:
 ```bibtex
 @inproceedings{dexheimer2023depthcov,
-  title={{Learning a Depth Covariance Function},
+  title={Learning a Depth Covariance Function},
   author={Eric Dexheimer and Andrew J. Davison},
   booktitle={IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR).},
-  year={2023},
-  }
+  year={2023}
 }
 ```
